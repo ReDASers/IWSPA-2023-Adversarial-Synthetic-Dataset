@@ -4,7 +4,7 @@ This repository contains two phishing/legitimate dataset extensions from IWSPA 2
 2.	Synthetic: This dataset is consisting of synthetic phishing email examples using a fine-tuned GPT-2 model.
 
 ## Citing Dataset
-If you use IWSPA-2023-Adversarial-Synthetic-Dataset for your research, please cite Adversarial Robustness of Phishing Email Detection Models paper
+If you use IWSPA-2023-Adversarial-Synthetic-Dataset for your research, please cite [Adversarial Robustness of Phishing Email Detection Models] (https://dl.acm.org/doi/abs/10.1145/3579987.3586567) paper
 
 @inproceedings{mehdi2023adversarial,
   title={Adversarial Robustness of Phishing Email Detection Models},
